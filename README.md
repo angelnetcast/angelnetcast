@@ -1,8 +1,25 @@
-# welcome to angel's github!
 
-i don't really plan on doing much other than neocities updates atm. nice to see u tho :)
+<h1>welcome to angel's github!</h1>
+<p>average cat on the internet. usually maintaining my neocities site and learning how 2 do new things</p>
+<img align="right" margin-top="50px" src="https://angelnetcast.neocities.org/media/images/drawings/wink.GIF">
 
-![cake wink graphic](https://angelscake.neocities.org/media/images/drawings/wink.GIF)
+<details>
+  <summary>
+    coding languages
+  </summary>
+  <b>known</b>
+ <ul>
+   <li>html</li>
+   <li>css</li>
+ </ul>
+  <b>learning</b>
+  <ul>
+    <li>javascript</li>
+    <li>python</li>
+  </ul>
+</details>
+
+
 
 <!--
 **angelnetcast/angelnetcast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
