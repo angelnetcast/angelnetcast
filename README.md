@@ -1,6 +1,10 @@
 
 <h1>welcome to angel's github!</h1>
-<p>average cat on the internet. usually maintaining my neocities site and learning how 2 do new things</p>
+<p>
+average cat on the internet. usually maintaining my neocities site and learning how 2 do new things
+<br>
+the repo for my main site is private rn but it will be public on v2. stay tuned!
+</p>
 <img align="right" margin-top="50px" src="https://angelnetcast.neocities.org/media/images/drawings/wink.GIF">
 
 <details>
