@@ -1,11 +1,17 @@
 
-<h1>welcome to angel's github!</h1>
+<h1>☆ angelnetcast</h1>
 <p>
-average cat on the internet. usually maintaining my neocities site and learning how 2 do new things
-<br>
-the repo for my main site is private rn but it will be public on v2. stay tuned!
+hi, i'm angel! all of my sites are maintained here. i love html!! someday i'll learn something more complicated than that...
 </p>
-<img align="right" margin-top="50px" src="https://angelnetcast.neocities.org/media/images/drawings/wink.GIF">
+
+<p>
+  main website: <a href="https://angelnetcast.neocities.org/">angelnetcast.neocities.org</a>
+  <br>
+  site archive: <a href="https://angelsarchives.neocities.org/">angelsarchives.neocities.org</a>
+  <br>
+  html layouts: <a href="https://angelslayouts.neocities.org/">angelslayouts.neocities.org</a>
+</p>
+<img align="right" margin-top="50px" src="https://f2.toyhou.se/file/f2-toyhou-se/images/87559482_bgvAlMap4jWKtc8.png">
 
 <details>
   <summary>
