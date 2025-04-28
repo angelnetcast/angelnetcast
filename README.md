@@ -1,35 +1,17 @@
 
 <h1>☆ angelnetcast</h1>
 <p>
-hi, i'm angel! all of my sites are maintained here. i love html!! someday i'll learn something more complicated than that...
+hi, i'm angel! all of my sites are maintained here. i love html!! working on learning some more languages, but it'll probably be a while...
 </p>
-<img align="right" margin-top="0px" width="300px" src="https://angelnetcast.neocities.org/assets/images/art/decoration/pancakesilly.png">
+<img align="right" margin-top="0px" width="300px" src="https://angelnetcast.com/assets/images/art/decoration/pointcake.gif" alt="drawing of an anthropomorphic purple cat pointing at the text to the right" title="my mascot, cake!">
 
-<p>
-  main website: <a href="https://angelnetcast.neocities.org/">angelnetcast.neocities.org</a>
-  <br>
-  site archive: <a href="https://angelsarchives.neocities.org/">angelsarchives.neocities.org</a>
-  <br>
-  html layouts: <a href="https://angelslayouts.neocities.org/">angelslayouts.neocities.org</a>
-</p>
+<ul>
+  <li><a href="https://angelnetcast.com/">angelnetcast.com</a> - my main site</li>
+  <li><a href="https://layouts.angelnetcast.com/">layouts.angelnetcast.com</a> - free to use html layouts</li>
+  <li><a href="https://archive.angelnetcast.com/">archive.angelnetcast.com</a> - a museum of my old websites</li>
+</ul>
 
-<details>
-  <summary>
-    coding languages
-  </summary>
-  <b>known</b>
- <ul>
-   <li>html</li>
-   <li>css</li>
- </ul>
-  <b>learning</b>
-  <ul>
-    <li>javascript</li>
-    <li>python</li>
-  </ul>
-</details>
-
-
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/680829ed85af3470eb45045b?variant=dark&roadmaps=javascript" alt="roadmap.sh"/></a>
 
 <!--
 **angelnetcast/angelnetcast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
